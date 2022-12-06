@@ -1,12 +1,6 @@
 {
   "users": [
     {
-      "id": 1,
-      "user_name": "Hamza",
-      "email": "hamza@gmail.com",
-      "password": "123"
-    },
-    {
       "id": 2,
       "user_name": "Haroon",
       "email": "Haroon@gmail.com",
@@ -95,6 +89,42 @@
       "user_name": "moiz",
       "email": "moiz@gmail.com",
       "password": "123"
+    },
+    {
+      "id": "17",
+      "user_name": "Sir Tayyab",
+      "email": "tayyab@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "18",
+      "user_name": "muaz",
+      "email": "muaz@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "19",
+      "user_name": "hamza",
+      "email": "hamza@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "20",
+      "user_name": "abc",
+      "email": "abc@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "21",
+      "user_name": "def",
+      "email": "def@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "22",
+      "user_name": "fgh",
+      "email": "fgh@gmail.com",
+      "password": "123"
     }
   ],
   "posts": [
@@ -111,6 +141,20 @@
       "user_name": "Haroon",
       "post_title": "Facebook Messenger Just Got An Update — Instead Of Emoji, Use Avatar For Quick Reactions - Meta Platforms",
       "post_body": "Meta Platforms Inc.’s META Facebook Messenger now allows users to interact with friends and family through in-action avatars. What Happened: On Friday, social media consultant Matt Navarra took to Twitter to share a few screenshots of a new Messenger feature that enables users to set quick reactions in chats to an avatar instead of an emoji. "
+    },
+    {
+      "id": 3,
+      "user_id": "21",
+      "user_name": "def",
+      "post_title": "reg",
+      "post_body": "abcdedr"
+    },
+    {
+      "id": 4,
+      "user_id": "22",
+      "user_name": "fgh",
+      "post_title": "fwe",
+      "post_body": "ewfewferverferferfwefwrfw"
     }
   ]
 }
