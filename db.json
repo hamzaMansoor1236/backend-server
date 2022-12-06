@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user_name": "Hamza",
+      "email": "hamza@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "user_name": "Haroon",
+      "email": "Haroon@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "3",
+      "user_name": "Mahad",
+      "email": "mahad@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "4",
+      "user_name": "Naveed riaz",
+      "email": "Naveed@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "5",
+      "user_name": "haris",
+      "email": "haris@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "6",
+      "user_name": "muhamamad",
+      "email": "muhammad@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "7",
+      "user_name": "ali",
+      "email": "ali@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "8",
+      "user_name": "yahya",
+      "email": "yahya@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "9",
+      "user_name": "ahmad",
+      "email": "ahmad@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "10",
+      "user_name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "11",
+      "user_name": "fazal",
+      "email": "fazal@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "12",
+      "user_name": "khurram",
+      "email": "khurram@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "13",
+      "user_name": "nawaz",
+      "email": "nawaz@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "14",
+      "user_name": "hassan",
+      "email": "haan@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "15",
+      "user_name": "haris",
+      "email": "haris@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "16",
+      "user_name": "moiz",
+      "email": "moiz@gmail.com",
+      "password": "123"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "user_name": "Sebastian",
+      "post_title": "Twitter Employees Told to Send Updates of Work Done Each Week",
+      "post_body": "CEO Elon Musk directly oversees Twitter's engineering department, where employees are now told to send individual updates of their work. "
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "user_name": "Haroon",
+      "post_title": "Facebook Messenger Just Got An Update — Instead Of Emoji, Use Avatar For Quick Reactions - Meta Platforms",
+      "post_body": "Meta Platforms Inc.’s META Facebook Messenger now allows users to interact with friends and family through in-action avatars. What Happened: On Friday, social media consultant Matt Navarra took to Twitter to share a few screenshots of a new Messenger feature that enables users to set quick reactions in chats to an avatar instead of an emoji. "
+    }
+  ]
+}
