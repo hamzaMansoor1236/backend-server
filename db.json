@@ -7,12 +7,6 @@
       "password": "123"
     },
     {
-      "id": "3",
-      "user_name": "Mahad",
-      "email": "mahad@gmail.com",
-      "password": "123"
-    },
-    {
       "id": "4",
       "user_name": "Naveed riaz",
       "email": "Naveed@gmail.com",
@@ -129,32 +123,25 @@
   ],
   "posts": [
     {
-      "id": 1,
-      "user_id": 1,
-      "user_name": "Sebastian",
-      "post_title": "Twitter Employees Told to Send Updates of Work Done Each Week",
-      "post_body": "CEO Elon Musk directly oversees Twitter's engineering department, where employees are now told to send individual updates of their work. "
-    },
-    {
       "id": 2,
-      "user_id": 2,
-      "user_name": "Haroon",
-      "post_title": "Facebook Messenger Just Got An Update — Instead Of Emoji, Use Avatar For Quick Reactions - Meta Platforms",
-      "post_body": "Meta Platforms Inc.’s META Facebook Messenger now allows users to interact with friends and family through in-action avatars. What Happened: On Friday, social media consultant Matt Navarra took to Twitter to share a few screenshots of a new Messenger feature that enables users to set quick reactions in chats to an avatar instead of an emoji. "
+      "user_id": "7",
+      "user_name": "ali",
+      "post_title": "vfvdfvfd",
+      "post_body": "fvdfvdfvdf"
     },
     {
       "id": 3,
-      "user_id": "21",
-      "user_name": "def",
-      "post_title": "reg",
-      "post_body": "abcdedr"
+      "user_id": "7",
+      "user_name": "ali",
+      "post_title": "fvdfvdfvdffdaervfvevdsvfwe",
+      "post_body": "dsvfwedsfvfewqerghjgfrewrtghjmngfdsa"
     },
     {
       "id": 4,
       "user_id": "22",
       "user_name": "fgh",
-      "post_title": "fwe",
-      "post_body": "ewfewferverferferfwefwrfw"
+      "post_title": "abcd",
+      "post_body": "efg"
     }
   ]
 }
